@@ -1,5 +1,5 @@
 package miniproject;
-public class CarModels {
+ class CarModels {
 	public void model() {
 		String[] model = { "Polo Trendline", "Polo Highline ", "Virtus Trendline ", "Virtus Highline",
 				"Taigun Trendline ", "Taigun Highline", "Taigun Topline" };
